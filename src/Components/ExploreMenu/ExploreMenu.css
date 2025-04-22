@@ -8,7 +8,7 @@
     font-weight: 500;
 }
 .explore-menu-text{
-    max-width: 60%;
+    width: 60%;
     color: #808080;
 }
 .explore-menu-list{
@@ -51,5 +51,11 @@
     .explore-menu{
     max-width: 100%;
     font-size: 14px;
+    }
+ 
+}
+@media  (max-width:431px) {
+    .explore-menu-text{
+        width: 100% !important;
     }
 }

@@ -99,4 +99,7 @@
     .navbar-right .search-icon{
         display: none;
     }
+    .navbar .logo{
+        width: 100px;
+    }
 }
