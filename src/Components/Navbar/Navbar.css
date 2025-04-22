@@ -96,7 +96,7 @@
 
 }
 @media  (max-width:431px) {
-    .navbar-right img{
+    .navbar-right .search-icon{
         display: none;
     }
 }
